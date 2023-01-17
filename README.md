@@ -1,5 +1,5 @@
 # MapKitSwiftUI
-Its simply app to get your current location and show into map.
+Its simple app to get your current location and show into map.
 
 - Location update automatically in map.
 
