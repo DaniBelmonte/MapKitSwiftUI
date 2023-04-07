@@ -1,6 +1,9 @@
 # MapKitSwiftUI
 Its simple app to get your current location and show into map.
 
-- Location update automatically in map.
+- Button go to user location.
+- Compass.
 
-<img src="https://user-images.githubusercontent.com/77160617/209595297-5efa39cb-c06c-4672-bf52-6beda9da6d64.png" width="200" height="400">
+<p>
+<img src="https://user-images.githubusercontent.com/77160617/229350825-4da9a6e3-cc10-48b1-8d5a-368e03f31b27.png" width="200" height="400">
+</p>
