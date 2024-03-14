@@ -12,7 +12,7 @@
 <p>Si quieres contribuir a este proyecto, por favor sigue los siguientes pasos:</p>
 <ol>
 <li>Haz un fork de este repositorio</li>
-<li>Crea un pull request y describe tus cambios</li>
+<li>Crea una PR(pull request) y describe tus cambios</li>
 </ol>
 ¡Gracias! 🎉
 <p>
